@@ -21,6 +21,6 @@ int main(){
     }else if (operator=='/'){
         printf("The answer is: %d",num1/num2);
     }else{
-        printf("Wrong input");
+        printf("Wrong input!");
     }
 }
